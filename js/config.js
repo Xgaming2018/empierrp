@@ -83,10 +83,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
-	{youtube: "j0PA0PX7lKo", name: "No"},
-	{youtube: "yHZfHPhNjXo", name: "No"},
-	{youtube: "-7VeTkLKdDw", name: "No"}
+	{youtube: "GsLzO91M_hc", name: "Star Wars - Cantina Band"},
 ];
 
 /*Random music order?*/
@@ -102,8 +99,8 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 "Enjoy the server",
-"Thanks for joining us!",
-"Did you know these backgrounds and songs are from Touhou?"
+"Thanks for joiningPalm Tree Network!",
+"did you forget that China is number 1"
 ];
 
 /*Random message order?*/
